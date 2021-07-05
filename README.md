@@ -1,15 +1,20 @@
-# Bytekode-TA-BOT
-'**".commands" for commands**'
-  '\n \n**----Quiz Commands----**'
-  '\n".quiz" for quizes'
-  '\ntype "end quiz" to end the current quiz'
-  '\n \n**----Random Commands----**'
-  '\n".randomnumber {min} {max}" to generate a random number (Ex: __.randomnumber 10 34__, defaults to 0-10)'
-  '\n".coinflip" to flip a coin '
-  '\n".clear {amount}" to delete however many previous messages (Ex: __.clear 3__, defaults to 5)\n \n**----Breakout Rooms----**'
-  '\n".breakout {name}" to create and breakout into breakout rooms (Ex: __.breakout Math Help__, defaults to the breakout room number)'
-  '\n".add @users" to add them (Ex: __.add @John @Manny @Ellie__)'
-  '\n.return to return to main channel\n \n**----Assignments----**'
-  '\n".assign {name} {date}" to assign an assignment (Ex: __.assign Worksheet 1A 10/5/2021__, Date format is strictly MM/DD/YYYY)'
-  '\n".allassignments" to get all your assignments'
-  '\n".assignments" get the current assignments and the ones due up to three days ago'
+".commands" for commands
+ 
+----Quiz Commands----
+".quiz" for quizes
+type "end quiz" to end the current quiz
+ 
+----Random Commands----
+".randomnumber {min} {max}" to generate a random number (Ex: .randomnumber 10 34, defaults to 0-10)
+".coinflip" to flip a coin 
+".clear {amount}" to delete however many previous messages (Ex: .clear 3, defaults to 5)
+ 
+----Breakout Rooms----
+".breakout {name}" to create and breakout into breakout rooms (Ex: .breakout Math Help, defaults to the breakout room number)
+".add @users" to add them (Ex: .add @John @Manny @Ellie)
+.return to return to main channel
+ 
+----Assignments----
+".assign {name} {date}" to assign an assignment (Ex: .assign Worksheet 1A 10/5/2021, Date format is strictly MM/DD/YYYY)
+".allassignments" to get all your assignments
+".assignments" get the current assignments and the ones due up to three days ago
